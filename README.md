@@ -1,2 +1,2 @@
-# resources
-JavaScript resources
+# Package monitoring
+Nothing to see here.
